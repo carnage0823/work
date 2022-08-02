@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @carnage0823
-- 👀 I’m interested in programmming
-- 🌱 I’m currently learning python
-- 📫 How to reach me? instagram = "rohitsharma.23"
